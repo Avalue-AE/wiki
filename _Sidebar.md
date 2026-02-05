@@ -34,18 +34,8 @@
 - **Enterprise Kit**
   - [Safety Precautions](Enterprise-Kit-Safety-Precautions)
   - [Packing List](Enterprise-Kit-Packing-List)
-  - Server （無內容）
   - [Recommended Accessories](Enterprise-Kit-Recommended-Accessories)
 
-- [ARTEMIS Portal](RENITY-ARTEMIS-ARTEMIS-Portal)
-- **Anchor**
-  - Mode B （無內容）
-- **Tags**
-  - Badge Type （無內容）
-  - Watch Type （無內容）
-- **API** （無內容）
-- **FAQs** （無內容）
-- **Service** （無內容）
 
 ## Open Frame Series
 - **Open Frame Panel PC**
@@ -91,9 +81,6 @@
 - [RITY10R1](Retail-RITY10R1)
 - [RITY12R](Retail-RITY12R)
 - [RITY15R](Retail-RITY15R)
-
-## Healthcare
-（無子頁面）
 
 ## FAQ
 - [FAQ](FAQ)
