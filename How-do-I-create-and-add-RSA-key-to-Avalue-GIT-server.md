@@ -13,4 +13,4 @@ You can find “id_rsa.pub” in path below. Please use text editor to read cont
 ```
 #/home/username/.ssh/
 ```
-![gen_rsa_key](images\FAQ\How-do-I-create-and-add-RSA-key-to-Avalue-GIT-server\gen_rsa_key.jpg)
+![gen_rsa_key](images/FAQ/How-do-I-create-and-add-RSA-key-to-Avalue-GIT-server/gen_rsa_key.jpg)
