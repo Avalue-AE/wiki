@@ -19,7 +19,7 @@
 | ------------ | ------------ |
 | OS Programming Guide | [Download]() |
 
-> [!NOTE] Note
+> [!NOTE]
 > Please contact your sales representative or service agent for **Application Development Guide** details.  
 
 ## EPD-42T-B1 (IMX7, True-Flat)
