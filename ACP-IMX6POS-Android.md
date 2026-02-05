@@ -45,7 +45,7 @@ Please copy all of them to path `Android-MfgTools\Image\smarc\android` of MfgToo
 
 ### Install image
 
-[Flash image(RSC-IMX61).pdf](https://webdownload.avalue.com.tw/wiki/RISC/RSC-IMX61/Document/Flash_image(RSC-IMX61).pdf)
+[Flash image(RSC-IMX61).pdf](https://github.com/AE-public/wiki/releases/download/test/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
