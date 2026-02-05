@@ -2,6 +2,6 @@
 
 ## Here you can find some frequency asked questions :
 
-1. [How do I create and add RSA key to Avalue GIT server?]()
+1. [How do I create and add RSA key to Avalue GIT server?](C:\Github\wiki\wiki.wiki\How do I create and add RSA key to Avalue GIT server.md)
 2. [How to customize Ubuntu file system for i.MX6 platform?]()
 3. [How to update Debian 8 kernel?]()
