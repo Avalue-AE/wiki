@@ -71,11 +71,6 @@
 ## SID Series
 - [SID-15WAD](SID-Series-SID-15WAD)
 
-## VNS(x86)
-- **VNS series | Product Information**
-  - [VNS-10W01](VNS-x86-VNS-10W01)
-  - [VNS-15W01](VNS-x86-VNS-15W01)
-
 ## Retail
 - [RITY8R1](Retail-RITY8R1)
 - [RITY10R1](Retail-RITY10R1)
