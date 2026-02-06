@@ -7,7 +7,7 @@
 #sudo apt-get install alsa pulseaudio
 ```
 
-3. Open terminal,Extract driver_patch.tar.bz2
+3. Open terminal,Extract driver_patch.tar.bz2  
 ![tar_driver_patch](images/FAQ/How-to-update-Debian-8-kernel/tar_driver_patch.png)  
 
 4. Into driver_patch folder,update kernel
