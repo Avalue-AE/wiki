@@ -5,7 +5,7 @@
 ## Document
 | Document                           | Download Link|
 | :--------------------------------- | :----------- |
-| Datasheet                          | [Download]() |
+| Datasheet                          | [Download](https://github.com/AE-public/wiki/releases/download/RITY8R1/emc_test_report_rity8r1-20140926_emi.pdf) |
 | User Manual                        | [Download]() |
 | MTBF Report                        | [Download]() |
 | EMI Report                         | [Download]() |
