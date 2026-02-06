@@ -70,7 +70,7 @@ Android](ftp://dennis:8710@ftp.avalue.com.tw/dennis/IMX6/RITY_8/RITY_POS-Android
 
 2\. Use mini-USB cable to connect JMUSB1 on RITY8R1 to Windows 7
 system.  
-3-1. Run “MFG-Helper.exe” on the path
+3. Run “MFG-Helper.exe” on the path
 (~\RITY_POS-Android-MfgTools\Mfg-POS)  
 3-1. Please select as below for Dual lite then click “Run MFG-Tools”  
 ![solo.jpg](images/RITY%20serious/solo.jpg)
