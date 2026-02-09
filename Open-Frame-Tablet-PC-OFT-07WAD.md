@@ -23,7 +23,7 @@
 | Touch Datasheet            | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD.Touch.Datasheet.pdf) |
 | Wi-Fi Datasheet            | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD.WIFI.Datasheet.pdf) |
 | Design Verification Report | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD.System.Product.Design.Verification.OFT-07WAD_Report.pdf) |
-| MTBF Report-1              | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD_MTBF_Report.zip) |
+| MTBF Report                | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD_MTBF_Report.zip) |
 | ME Drawing                 | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD_ME.zip) |
 | Battery Document           | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD_Battery.zip) |
 | CCC Certification          | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD_BTL.zip) |
