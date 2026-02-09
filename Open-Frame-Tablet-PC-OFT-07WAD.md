@@ -6,7 +6,8 @@
 | JRX12_BIOS_V1.00T29 | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/JRX12_BIOS_V1.00T29.zip) |
 
 ## Linux  
->[!NOTE]You need to download all three files in order to extract them.  
+>[!NOTE]
+>You need to download all three files in order to extract them.  
 
 | Document                    | Download Link|
 | :-------------------------- | :----------- |
