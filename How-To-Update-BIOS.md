@@ -3,7 +3,7 @@
 BIOS File Download Link below  
 | Version | Download Link|
 | :------ | :----------- |
-| v1.50   | [Download]() |
+| v1.50   | [Download](全部無檔案) |
 | v1.90   | [Download]() |
 | v2.00   | [Download]() |
 | v2.01   | [Download]() |
