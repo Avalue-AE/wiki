@@ -3,5 +3,4 @@
 ## Document
 | Document                    | Download Link|
 | :-------------------------- | :----------- |
-| ME drawing(20220221 update) | [Download]() |
-| Manual(2022/11/23 update)   | [Download]() |
+| ME drawing(2022/02/21 update) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-21W03/OFT-21W03_ME.zip) |
