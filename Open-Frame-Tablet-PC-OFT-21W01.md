@@ -5,7 +5,7 @@
 | :------- | :----------- |
 | GPIO API | [Download](https://github.com/AE-public/wiki/releases/download/OFT-21W01/GPIO.zip) |
 
-[How to test GPIO function on Windows](How_to_test_GPIO_function_on_Windows) 
+[How to test GPIO function on Windows](How-to-test-GPIO-function-on-Windows) 
 
 ### Linux
 | Document                     | Download Link|
