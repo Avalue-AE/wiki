@@ -1,10 +1,10 @@
 # How to install RFID driver on Ubuntu 14.04 or Fedora 21
 
 Windows Test Program  
-[Download]()  
+[Download](無檔案)  
 
 Driver Files Download Link below  
-[RDIF Driver]()  
+[RDIF Driver](無檔案)  
 
 ## For installation on Ubuntu
 
