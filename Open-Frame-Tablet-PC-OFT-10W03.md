@@ -3,6 +3,7 @@
 ## Linux  
 >[!NOTE]
 You need to download all files in order to extract them.  
+(2G_32G: 001 & 002 & 003)  (4G_64G: 001 & 002)  
 
 | Image                                           | Download Link|
 | :---------------------------------------------- | :----------- |
