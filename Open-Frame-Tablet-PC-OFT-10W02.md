@@ -4,7 +4,7 @@
 >[!NOTE]
 You need to download all files in order to extract them.  
 
-| Document                                          | Download Link|
+| Image                                             | Download Link|
 | :------------------------------------------------ | :----------- |
 | OFT-10W02-2G_32G-Ubuntu 20.04.1 LTS(E158BT10201R)_001 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W02/cherrytrail_oft_10w02_ubuntu_20.04.1lts_k5.4.42.7z.001) |
 | OFT-10W02-2G_32G-Ubuntu 20.04.1 LTS(E158BT10201R)_002 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W02/cherrytrail_oft_10w02_ubuntu_20.04.1lts_k5.4.42.7z.002) |
