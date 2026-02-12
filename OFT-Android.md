@@ -6,7 +6,7 @@
 
 | Document                        | Download Link          |
 | :------------------------------ | :--------------------- |
-| USB installer                   | [Download]()           |
+| USB installer                   | [Download](全部無檔案)           |
 | A44_0.0.46                      | [Android image file]() |
 | A44_0.0.95 (With file manager)  | [Android image file]() |
 | A44_0.0.106 (With file manager) | [Android image file]() |
@@ -40,7 +40,7 @@
 ## Instruction to flash Android image with DnX Mode
 
 Android image file download Link  
-[Android image file]()  
+[Android image file](無檔案)  
 
 1. Please make sure you already update BIOS to latest 64bit version. You can refer to this link to update BIOS.  
 2. Please refer to this [link]() to install `Intel Platform Flash tool Lite` and `Intel® Android* USB Drivers`.  
