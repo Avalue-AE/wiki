@@ -3,11 +3,11 @@
 ## Android
 | Document    | Download Link|
 | :---------- | :----------- |
-| Android 8.1 | [Download]() |
+| Android 8.1 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR1/rk3288-7inch-20211004.iso) |
 
 ## Document
 | Document               | Download Link|
 | :--------------------- | :----------- |
-| Datasheet              | [Download]() |
-| Touch Screen Datasheet | [Download]() |
-| ME Drawing             | [Download]() |
+| LCD Datasheet          | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR1/kd070d64-31na-a002.pdf) |
+| Touch Screen Datasheet | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR1/st-070c21a-af_v02-spec.pdf) |
+| ME Drawing             | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR1/OFT-07WR1_ME1.zip) |
