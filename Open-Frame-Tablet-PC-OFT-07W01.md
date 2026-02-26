@@ -1,19 +1,19 @@
 # OFT-07W01
 
 ### Windows
-| Document | Download Link|
+| Tool     | Download Link|
 | :------- | :----------- |
 | GPIO     | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W01/GPIO.zip) |
 
-[How to test GPIO function on Windows]() 
+[How to test GPIO function on Windows](How-to-test-GPIO-function-on-Windows)  
 
 ### Linux
 | Image                     | Download Link|
 | :--------------------------- | :----------- |
 | Ubuntu-16.04.3(E158BOT2106R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W01/Ubuntu-16.04.3-v1.0.5.zip) |  
 
-[How to flash Linux Ubuntu image file into emmc]() 
-[How to install RFID driver on Ubuntu 14.04 or Fedora 21]() 
+[How to flash Linux Ubuntu image file into emmc](How-to-flash-Linux-Ubuntu-image-file-into-emmc)   
+[How to install RFID driver on Ubuntu 14.04 or Fedora 21]()  
 
 ### Android
 | Image                  | Download Link|
@@ -21,12 +21,12 @@
 | Android 4.4(E158AOT0703R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W01/2014WW46_BCX12_Intel_A44_0.0.31.zip) |
 | Android 5.1(E158AOT0704R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W01/2015WW38_BCX12A51_Intel_A51_0.0.14.zip) |
 
-[How to flash Android image file for OFT-07W01]()
-[Android APK installation for OFT PC]()
+[How to flash Android image file for OFT-07W01]()  
+[Android APK installation for OFT PC]()  
 
 ### BIOS
-[How to update BIOS for OFT-07W01]()
-[How to enable bluetooth(BT) on BIOS]()
+[How to update BIOS for OFT-07W01]()  
+[How to enable bluetooth(BT) on BIOS]()  
 
 ### Document
 | Document                                           | Download Link|
