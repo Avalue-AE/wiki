@@ -13,7 +13,7 @@
 | Ubuntu-16.04.3(E158BOT2106R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W01/Ubuntu-16.04.3-v1.0.5.zip) |  
 
 [How to flash Linux Ubuntu image file into emmc](How-to-flash-Linux-Ubuntu-image-file-into-emmc)   
-[How to install RFID driver on Ubuntu 14.04 or Fedora 21]()  
+[How to install RFID driver on Ubuntu 14.04 or Fedora 21](How-to-install-RFID-driver-on-Ubuntu-14.04-or-Fedora-21)  
 
 ### Android
 | Image                  | Download Link|
