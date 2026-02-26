@@ -10,7 +10,7 @@
   ```
 
 
-2.make and install hidapi  
+2. make and install hidapi  
 ```
   tar jxvf <media path>/hidapi-0.8.0.tar.bz2 
   cd hidapi-0.8.0/ 
@@ -21,14 +21,14 @@
   sudo ldconfig 
 ```
 
-3.make test api  
+3. make test api  
 ```
   tar jxvf <media path>/rfidtest.tar.bz2 
   cd rfidtest 
   make
 ```
 
-4.Test RFID
+4. Test RFID
 ```
   sudo ./rfidtest 
   ```
@@ -37,14 +37,14 @@
 ## For installation on Fedora
 
 
-1.install need library  
+1. install need library  
 ```
   sudo yum install  systemd-devel libusbx-devel
   sudo yum install automake autoconf libtool
   sudo yum install gcc-c++
 ```
 
-2.make and install hidapi  
+2. make and install hidapi  
 ```
   tar jxvf <media path>/hidapi-0.8.0.tar.bz2
   cd hidapi-0.8.0/
@@ -56,13 +56,13 @@
    sudo ldconfig  
 ```
 
-4.make test api  
+3. make test api  
 ```
   tar jxvf <media path>/rfidtest.tar.bz2
   cd rfidtest
   make
 ```
-5.Test RFID 
+4. Test RFID 
 ```
   sudo ./rfidtest
 ```
