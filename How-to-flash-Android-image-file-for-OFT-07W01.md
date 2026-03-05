@@ -46,21 +46,21 @@ And your USB_Installer should be like as below,
 8. Auto load would start after few seconds.  
 ![flash_andriod](images/How-to-flash-Android-image-file-for-OFT-07W01/flash_android_8.jpg)  
 
-> [NOTE]  
+>[!NOTE]  
 >9. Notice that you should unplug your USB while finishing loading image, or it would reload again.  
   
 10. Reboot and enter Android system  
 ![flash_andriod_10](images/How-to-flash-Android-image-file-for-OFT-07W01/flash_android_10.jpg)  
 
 
-# Instruction to flash Android image with DnX Mode
+## Instruction to flash Android image with DnX Mode  
 
 Android image file download Link  
 [無檔案]() 
 
 1. Please make sure you already update BIOS to latest 64bit version. You can refer to this [Link](How-To-Update-BIOS) to update BIOS.  
-2. Please refer to this [Link](https://www.intel.com/content/www/us/en/developer/topic-technology/open/overview.html?langredirect=1) to install **Intel Platform Flash tool Lite** and **Intel® Android* USB Drivers**.  
-3. Plug in membrane keypad test cable on JTB1 of the system. Here is approval sheet of approval sheet of [membrane keypad](https://github.com/AE-public/wiki/releases/download/How-to-flash-Android-image-file-for-OFT-07W01/e1971120102r.pdf) & [cable](https://github.com/AE-public/wiki/releases/download/How-to-flash-Android-image-file-for-OFT-07W01/e170x210020r.pdf) 
+2. Please refer to this [Link](https://www.intel.com/content/www/us/en/developer/topic-technology/open/overview.html?langredirect=1) to install **Intel Platform Flash tool Lite** and **Intel® Android* USB Drivers**  
+3. Plug in membrane keypad test cable on JTB1 of the system. Here is approval sheet of approval sheet of [membrane keypad](https://github.com/AE-public/wiki/releases/download/How-to-flash-Android-image-file-for-OFT-07W01/e1971120102r.pdf) & [cable](https://github.com/AE-public/wiki/releases/download/How-to-flash-Android-image-file-for-OFT-07W01/e170x210020r.pdf)  
 ![key_1](images/How-to-flash-Android-image-file-for-OFT-07W01/key_1.jpg)  
 ![key_2](images/How-to-flash-Android-image-file-for-OFT-07W01/key_2.jpg)  
 ![key_3](images/How-to-flash-Android-image-file-for-OFT-07W01/key_3.jpg)  
@@ -80,7 +80,6 @@ Android image file download Link
 
 6. Run **Intel Platform Flash tool** and select "**flash-EraseFactory.xml**" in path "**\2014WW46_BCX11_Intel_A44_0.0.46\flash_files\blankphone**"  
 ![flash_1](images/How-to-flash-Android-image-file-for-OFT-07W01/flash_1.jpg)  
-
 Press "Start to flash" to erase eMMC of the system.  
 ![flash_2](images/How-to-flash-Android-image-file-for-OFT-07W01/flash_2.jpg)  
 
