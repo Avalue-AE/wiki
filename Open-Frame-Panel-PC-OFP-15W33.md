@@ -1,7 +1,7 @@
 # OFP-15W33
 
 ## Android
-| Document                   | Download Link|
+| Image                      | Download Link|
 | :------------------------- | :----------- |
 | Android 8.1                | [Download](https://github.com/AE-public/wiki/releases/download/OFP-15W33/8.1-r5-r1-android_x86_64.iso) |
 | How to restore Android 8.1 | [Download](https://github.com/AE-public/wiki/releases/download/OFP-15W33/How.to.restore.Android.8.1.pdf) |
