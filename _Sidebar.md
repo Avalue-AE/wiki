@@ -35,6 +35,7 @@
   - [Safety Precautions](Enterprise-Kit-Safety-Precautions)
   - [Packing List](Enterprise-Kit-Packing-List)
   - [Recommended Accessories](Enterprise-Kit-Recommended-Accessories)
+  - [Service](Service)
 
 
 ## Open Frame Series
