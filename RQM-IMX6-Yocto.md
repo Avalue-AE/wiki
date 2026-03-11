@@ -58,24 +58,24 @@ Please copy all of them to path `Android-MfgTools\Image\smarc\android` of MfgToo
 
 ## Install image
 
-[Flash image(RQM-IMX6)]()
+[無檔案]()
 
 ### Download MfgTool for Android from Hyperlink below
 
 #### Dual Lite version
 | OS           | File  |
 |:-------------|:-------------|
-| Yocto2.1(4.1.15)     | [Download]() |
+| Yocto2.1(4.1.15)     | [無檔案]() |
 
 #### Quad version
 | OS           | File  |
 |:-------------|:-------------|
-| Yocto2.1(4.1.15)     | [Download]() |
+| Yocto2.1(4.1.15)     | [無檔案]() |
 
 ## Document
 | Documant               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [Download]() |
-| User's Manual          | [Download]() |
-| Mechanical Drawing     | [Download]() |
-| 3D Drawing (step file) | [Download]() |
+| Datasheet              | [無檔案]() |
+| User's Manual          | [無檔案]() |
+| Mechanical Drawing     | [無檔案]() |
+| 3D Drawing (step file) | [無檔案]() |
