@@ -15,7 +15,7 @@ $sudo apt-get install oracle-java6-installer
 $sudo update-alternatives --config java
 ```
 Please refer to hyperlink below to setup development environment  
-[Initializing a Build Environment ↗](https://source.android.com/docs/setup/start/requirements)
+[Initializing a Build Environment](https://source.android.com/docs/setup/start/requirements)
 
 ### Download Source code
 
@@ -45,16 +45,16 @@ Please copy all of them to path `Android-MfgTools\Image\smarc\android` of MfgToo
 
 ### Install image
 
-[Flash image(RSC-IMX61).pdf](https://github.com/AE-public/wiki/releases/download/test/Flash.image.RSC-IMX61.pdf)
+[無檔案]()
 
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Android6.0   | [Download]() |
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Android6.0   | [無檔案]() |
+| Ubuntu12.04  | [無檔案]() |
+| Yocto2.1     | [無檔案]() |
 
 ### Quad version
 | OS           | Download Link|
