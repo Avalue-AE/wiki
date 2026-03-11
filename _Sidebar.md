@@ -23,8 +23,7 @@
   - [Android](RSC-IMX8M-Android)
   - [Yocto](RSC-IMX8M-Yocto)
 
-- **ACP-3566-PI | RSC-3568J**
-  - [Android](ACP-3566-PI-RSC-3568J-Android)
+- [ACP-3566-PI | RSC-3568J](ACP-3566-PI-RSC-3568J-Android)
 
 ## Eink
 - [EPD-42T(EMX-IMX7)](Eink-EPD-42T-EMX-IMX7)
