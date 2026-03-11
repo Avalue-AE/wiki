@@ -1,11 +1,11 @@
 # ACP-3566-PI | RSC-3568J
 
 ## 7 inch image
-| Documant               | Download Link|
+| Image                  | Download Link|
 |:-----------------------|:-------------|
-| Android 13             | [Download]() |
+| Android 13             | [Download](https://github.com/AE-public/wiki/releases/download/ACP-3566-PI_RSC-3568J/7inch-lvds.zip) |
 
 ## 10 inch image
-| Documant               | Download Link|
+| Image                  | Download Link|
 |:-----------------------|:-------------|
-| Android 13             | [Download]() |
+| Android 13             | [Download](https://github.com/AE-public/wiki/releases/download/ACP-3566-PI_RSC-3568J/10inch-lvds.zip) |
