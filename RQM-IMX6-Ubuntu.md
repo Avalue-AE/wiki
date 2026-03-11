@@ -15,7 +15,7 @@ $sudo apt-get install oracle-java6-installer
 $sudo update-alternatives --config java
 ```
 Please refer to hyperlink below to setup development environment  
-[Initializing a Build Environment ↗](https://source.android.com/docs/setup/start/requirements)
+[Initializing a Build Environment](https://source.android.com/docs/setup/start/requirements)
 
 ### Download Source code
 > [!NOTE]
@@ -42,27 +42,27 @@ You can find Uboot image files in path `uboot-imx/out`
 
 ## Install image
 
-[Flash image(RQM-IMX6)]()
+[無檔案]()
 
 ### Download MfgTool for Android from Hyperlink below
 
 #### Dual Lite version
 | OS           | File  |
 |:-------------|:-------------|
-| Android6.0   | [Download]() |
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Android6.0   | [無檔案]() |
+| Ubuntu12.04  | [無檔案]() |
+| Yocto2.1     | [無檔案]() |
 
 #### Quad version
 | OS           | File  |
 |:-------------|:-------------|
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Ubuntu12.04  | [無檔案]() |
+| Yocto2.1     | [無檔案]() |
 
 ## Document
 | Documant               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [Download]() |
-| User's Manual          | [Download]() |
-| Mechanical Drawing     | [Download]() |
-| 3D Drawing (step file) | [Download]() |  
+| Datasheet              | [無檔案]() |
+| User's Manual          | [無檔案]() |
+| Mechanical Drawing     | [無檔案]() |
+| 3D Drawing (step file) | [無檔案]() |  
