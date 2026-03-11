@@ -19,11 +19,9 @@
   - [Ubuntu](RQM-IMX6-Ubuntu)
   - [Yocto](RQM-IMX6-Yocto)
 
-- **RSC-IMX8M**
-  - [Android](RSC-IMX8M-Android)
-  - [Yocto](RSC-IMX8M-Yocto)
+- [RSC-IMX8M](RSC-IMX8M)
 
-- [ACP-3566-PI | RSC-3568J](ACP-3566-PI-RSC-3568J-Android)
+- [ACP-3566-PI | RSC-3568J](ACP-3566-PI-RSC-3568J)
 
 ## Eink
 - [EPD-42T(EMX-IMX7)](Eink-EPD-42T-EMX-IMX7)
