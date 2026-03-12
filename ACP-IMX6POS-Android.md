@@ -53,13 +53,11 @@ Please copy all of them to path `Android-MfgTools\Image\smarc\android` of MfgToo
 | OS           | Download Link|
 |:-------------|:-------------|
 | Android6.0   | [無檔案]() |
-| Ubuntu12.04  | [無檔案]() |
-| Yocto2.1     | [無檔案]() |
 
-### Quad version
-| OS           | Download Link|
-|:-------------|:-------------|
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() | 
-
-### Document
+## Document
+| Document               | Download Link|
+|:-----------------------|:-------------|
+| Datasheet              | [無檔案]() |
+| User's Manual          | [無檔案]() |
+| Mechanical Drawing     | [無檔案]() |
+| 3D Drawing (step file) | [無檔案]() |

@@ -49,20 +49,17 @@ You can find Uboot image files in path `uboot-imx/out`
 #### Dual Lite version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Android6.0   | [Download]() |
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Ubuntu12.04  | [無檔案]() |
 
 #### Quad version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Ubuntu12.04  | [無檔案]() |
 
 ## Document
 | Documant               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [Download]() |
-| User's Manual          | [Download]() |
-| Mechanical Drawing     | [Download]() |
-| 3D Drawing (step file) | [Download]() |
+| Datasheet              | [無檔案]() |
+| User's Manual          | [無檔案]() |
+| Mechanical Drawing     | [無檔案]() |
+| 3D Drawing (step file) | [無檔案]() |

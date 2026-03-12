@@ -61,15 +61,15 @@ You can find Uboot image files in path `uboot-imx/out`
 ### Download MfgTool for Android
 
 #### Dual Lite version
-[Yocto2.1(4.1.15)](https://webdownload.avalue.com.tw/wiki/RISC/ACP-IMX6POS/Image/Dual Lite/Yocto2.1.zip)  
+[無檔案]()  
 
 #### Quad version
-[Yocto2.1(4.1.15)](https://webdownload.avalue.com.tw/wiki/RISC/ACP-IMX6POS/Image/Quad/Yocto2.1.zip)  
+[無檔案]()  
 
 ## Document
 | Documant               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [Download]() |
-| User's Manual          | [Download]() |
-| Mechanical Drawing     | [Download]() |
-| 3D Drawing (step file) | [Download]() |
+| Datasheet              | [無檔案]() |
+| User's Manual          | [無檔案]() |
+| Mechanical Drawing     | [無檔案]() |
+| 3D Drawing (step file) | [無檔案]() |
