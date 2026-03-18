@@ -50,28 +50,25 @@ You can find Kernel image in path `rsc-imx61/linux-imx/arch/arm/boot`
 You can find Uboot image in path `rsc-imx61/linux-imx/arch/arm/boot`  
 ![rsc-imx61_uboot_image_ubuntu](images/RSC-IMX61-Ubuntu/rsc-imx61_uboot_image_ubuntu.png)  
 
-## Install image
-[Flash image(RSC-IMX61)]()
+## Install image guide
+
+[Flash image(RSC-IMX61)](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Android6.0   | [Download]() |
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Dual_Lite.zip) |
 
 ### Quad version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() | 
+| Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Quad.zip) |
 
 ## Document
 | Documant               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [Download]() |
-| User's Manual          | [Download]() |
-| Mechanical Drawing     | [Download]() |
-| 3D Drawing (step file) | [Download]() |
+| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/rsc-imx61.pdf) |
+| Mechanical Drawing     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/rsc-imx6_150525.pdf) |
+| 3D Drawing (step file) | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/rsc-imx6_3d_150525.zip) |

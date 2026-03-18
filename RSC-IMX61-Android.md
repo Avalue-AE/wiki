@@ -40,6 +40,7 @@ You can find Android image files in path `linux-imx/out/target/product/aib`
 ![rsc-imx61_android_compiler3](images/RSC-IMX61-Android/rsc-imx61_android_compiler3.png)
 
 ## Install image guide
+
 [Flash image(RSC-IMX61)](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
@@ -47,15 +48,7 @@ You can find Android image files in path `linux-imx/out/target/product/aib`
 ### Dual Lite version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Android6.0   | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Android6.0_Dual_Lite.zip) |
-| Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Dual_Lite.zip) |
-| Yocto2.1     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Yocto2.1_Dual_Lite.zip) |
-
-### Quad version
-| OS           | Download Link|
-|:-------------|:-------------|
-| Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Quad.zip) |
-| Yocto2.1     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Yocto2.1_Quad.zip) | 
+| Android6.0   | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Android6.0_Dual_Lite.zip) |  
 
 ## Document
 | Documant               | Download Link|
