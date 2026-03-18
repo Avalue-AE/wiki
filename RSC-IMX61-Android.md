@@ -39,28 +39,27 @@ Select 24 to compile Android4.4 image
 You can find Android image files in path `linux-imx/out/target/product/aib`  
 ![rsc-imx61_android_compiler3](images/RSC-IMX61-Android/rsc-imx61_android_compiler3.png)
 
-## Install image
-[Flash image(RSC-IMX61)]()
+## Install image guide
+[Flash image(RSC-IMX61)](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Android6.0   | [Download]() |
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() |
+| Android6.0   | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Android6.0_Dual_Lite.zip) |
+| Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Dual_Lite.zip) |
+| Yocto2.1     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Yocto2.1_Dual_Lite.zip) |
 
 ### Quad version
 | OS           | Download Link|
 |:-------------|:-------------|
-| Ubuntu12.04  | [Download]() |
-| Yocto2.1     | [Download]() | 
+| Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Quad.zip) |
+| Yocto2.1     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Yocto2.1_Quad.zip) | 
 
 ## Document
 | Documant               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [Download]() |
-| User's Manual          | [Download]() |
-| Mechanical Drawing     | [Download]() |
-| 3D Drawing (step file) | [Download]() |
+| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/rsc-imx61.pdf) |
+| Mechanical Drawing     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/rsc-imx6_150525.pdf) |
+| 3D Drawing (step file) | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/rsc-imx6_3d_150525.zip) |
