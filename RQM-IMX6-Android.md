@@ -44,14 +44,6 @@ You can find Android image files in path `/out/target/product/smarc`
 | OS           | Download Link|
 |:-------------|:-------------|
 | Android6.0   | [無檔案]() |
-| Ubuntu12.04  | [無檔案]() |
-| Yocto2.1     | [無檔案]() |
-
-### Quad version
-| OS           | File  |
-|:-------------|:-------------|
-| Ubuntu12.04  | [無檔案]() |
-| Yocto2.1     | [無檔案]() | 
 
 ## Document
 | Documant               | Download Link|
