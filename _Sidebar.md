@@ -68,7 +68,7 @@
   - [OFT-10WAD](Open-Frame-Tablet-PC-OFT-10WAD)
 
 ## SID Series
-- [SID-15WAD](SID-Series-SID-15WAD)
+- [SID-15W04](SID-Series-SID-15W04)
 
 ## Retail
 - [RITY8R1](Retail-RITY8R1)
