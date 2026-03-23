@@ -6,12 +6,12 @@
 
 | Document                        | Download Link          |
 | :------------------------------ | :--------------------- |
-| USB installer                   | [Download](全部無檔案)           |
-| A44_0.0.46                      | [Android image file]() |
-| A44_0.0.95 (With file manager)  | [Android image file]() |
-| A44_0.0.106 (With file manager) | [Android image file]() |
-| A51_0.0.24                      | [Android image file]() |
-| A51_0.0.39                      | [Android image file]() |  
+| USB installer                   | [無檔案]()           |
+| A44_0.0.46                      | [無檔案 ]() |
+| A44_0.0.95 (With file manager)  | [無檔案]() |
+| A44_0.0.106 (With file manager) | [無檔案]() |
+| A51_0.0.24                      | [無檔案]() |
+| A51_0.0.39                      | [無檔案]() |  
 
 1. Update BIOS to latest 64bit version if needed. You can refer to this link to update BIOS.  
 2. Format the USB disk with FAT32, untar the `USB_Installer.7z`.  
@@ -24,9 +24,10 @@
     ![flash_android_5](images/OFT-Android/flash_android_5.png)  
 > [!NOTE]  
 > Notice that your USB_Installer should be like the file tree as below, and those redmarked ones are which you should replace with.  
-> ![flash_android_5-1](images/OFT-Android/flash_android_5-1.png)  
-> And your USB_Installer should be like as below.
-> ![flash_android_5-2](images/OFT-Android/flash_android_5-2.png)  
+
+![flash_android_5-1](images/OFT-Android/flash_android_5-1.png)  
+And your USB_Installer should be like as below.
+![flash_android_5-2](images/OFT-Android/flash_android_5-2.png)  
 1. Copy files under USB_Installer to your USB drive and plug in your device, and ensure that you connect keyboard with your device. 
 2. Power on your device and press `F12` to enter Boot Manager, then choose the USB you plug in.
     ![bios_2](images/OFT-Android/bios_2.png)
@@ -40,7 +41,7 @@
 ## Instruction to flash Android image with DnX Mode
 
 Android image file download Link  
-[Android image file](無檔案)  
+[無檔案]()  
 
 1. Please make sure you already update BIOS to latest 64bit version. You can refer to this link to update BIOS.  
 2. Please refer to this [link]() to install `Intel Platform Flash tool Lite` and `Intel® Android* USB Drivers`.  

@@ -1,7 +1,7 @@
 # Android OTA update process
 
 Requested File Download Link below  
-[All nedded files]()
+[無檔案]()
 
 1. Please download Android image from hyperlink above.  
 2. Decompress it and you will find OTA image file `byt_t_crv2_64-ota-BCX11-V0.0.46.zip` in path `\2014WW46_BCX11_Intel_A44_0.0.46\flash_files\build-user\byt_t_crv2_64-user-ota-BCX11-V0.0.46`. Copy it to a USB disk in FAT32 format.  

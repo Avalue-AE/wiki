@@ -1,9 +1,9 @@
 # How to flash Linux Ubuntu image file into emmc
 
-Download Ubuntu-16.04.3-v1.0.5, please click [here](無檔案) (Update on 2019/2/25)  
-Download Ubuntu-16.04.3-4.5.0, please click [here](無檔案) (Update on 2017/10/23)  
-Please kindly download Ubuntu 14.04 64bit Clonezilla image file from [here](無檔案) (Update on 2017/04/18)  
-Ubuntu 16.04 64bit Clonezilla image file from [here](無檔案) (Update on 2017/04/18)  
+Download Ubuntu-16.04.3-v1.0.5, please click [無檔案]() (Update on 2019/2/25)  
+Download Ubuntu-16.04.3-4.5.0, please click [無檔案]() (Update on 2017/10/23)  
+Please kindly download Ubuntu 14.04 64bit Clonezilla image file from [無檔案]() (Update on 2017/04/18)  
+Ubuntu 16.04 64bit Clonezilla image file from [無檔案]() (Update on 2017/04/18)  
 
 1. Get into BIOS and make sure you are using 64bit BIOS on Open Frame Tablet before staring.  
 2. Please prepare a USB disk at least 16GB and format it in FAT32 format. Copy clonezilla image file to it.  

@@ -5,12 +5,11 @@
 | :------- | :----------- |
 | GPIO API | [Download]() |
 
-[How to test GPIO function on Windows](OFT-Win-GPIO)  
+[How to test GPIO function on Windows](How-to-test-GPIO-function-on-Windows)  
 
 ### Linux
 | Document                     | Download Link|
 | :--------------------------- | :----------- |
-| BSP                          | [Download]() |
 | Ubuntu-16.04.3(E158BOT2106R) | [Download]() |  
 
 [How to flash Linux Ubuntu image file into emmc](OFT-Linux)  
@@ -36,7 +35,6 @@
 | LCD Datasheet                                      | [Download]() |
 | Touch Screen Datasheet                             | [Download]() |
 | Adapter Datasheet                                  | [Download]() |
-| User's Manual                                      | [Download]() |
 | Mechanical Drawing                                 | [Download]() |
 | MTBF Report                                        | [Download]() |
 | CE/FCC test Report                                 | [Download]() |

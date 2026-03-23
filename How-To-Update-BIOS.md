@@ -3,15 +3,15 @@
 BIOS File Download Link below  
 | Version | Download Link|
 | :------ | :----------- |
-| v1.50   | [Download](全部無檔案) |
-| v1.90   | [Download]() |
-| v2.00   | [Download]() |
-| v2.01   | [Download]() |
-| v2.02   | [Download]() |
-| v2.06   | [Download]() |
-| v2.07   | [Download]() |
-| v2.08   | [Download]() |
-| v2.09   | [Download]() |  
+| v1.50   | [無檔案]() |
+| v1.90   | [無檔案]() |
+| v2.00   | [無檔案]() |
+| v2.01   | [無檔案]() |
+| v2.02   | [無檔案]() |
+| v2.06   | [無檔案]() |
+| v2.07   | [無檔案]() |
+| v2.08   | [無檔案]() |
+| v2.09   | [無檔案]() |  
 
 Please follow procedure below to reflash BIOS :  
 
