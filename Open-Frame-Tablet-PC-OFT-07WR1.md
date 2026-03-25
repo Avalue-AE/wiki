@@ -1,7 +1,7 @@
 # OFT-07WR1
 
 ## Android
-| Document    | Download Link|
+| Image       | Download Link|
 | :---------- | :----------- |
 | Android 8.1 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR1/rk3288-7inch-20211004.iso) |
 

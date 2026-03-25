@@ -1,7 +1,7 @@
 # OFT-10WR1
 
 ## Android
-| Document                   | Download Link|
+| Image                      | Download Link|
 | :------------------------- | :----------- |
 | Android 8.1                | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR1/rk3288_20201202_d.7z.001) |
 

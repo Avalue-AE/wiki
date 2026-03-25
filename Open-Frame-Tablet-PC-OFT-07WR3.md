@@ -1,6 +1,6 @@
 # OFT-07WR3
 
-## Android 13 Image
+## Android 13  
 | Image                                       | Download Link|
 | :------------------------------------------ | :----------- |
 | Android 13(E158A07R300R)(2025/10/08 update) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR3/OFT-07WR3_img.zip) |

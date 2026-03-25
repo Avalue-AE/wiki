@@ -4,13 +4,13 @@
 >[!NOTE]
 >You need to download all three files in order to extract them.  
 
-| Image 32GB                                  | Download Link|
+| Image For 32GB                              | Download Link|
 | :------------------------------------------ | :----------- |
 | OFT-07W03-2G_32G-Ubuntu 19.04(E158BT07302R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/cherrytrail_oft_07w03_ubuntu_19.04_k5.0.13-hlcd_32g-20210712.7z.001) |
 | OFT-07W03-2G_32G-Ubuntu 19.04(E158BT07302R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/cherrytrail_oft_07w03_ubuntu_19.04_k5.0.13-hlcd_32g-20210712.7z.002) |
 | OFT-07W03-2G_32G-Ubuntu 19.04(E158BT07302R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/cherrytrail_oft_07w03_ubuntu_19.04_k5.0.13-hlcd_32g-20210712.7z.003) |
 
-| Image 64GB                                  | Download Link|
+| Image For 64GB                              | Download Link|
 | :------------------------------------------ | :----------- |
 | OFT-07W03-4G_64G-Ubuntu 19.04(E158BT07303R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/cherrytrail_oft_07w03_ubuntu_19.04_k5.0.13-hlcd_64g-20210712.7z.001) |
 | OFT-07W03-4G_64G-Ubuntu 19.04(E158BT07303R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/cherrytrail_oft_07w03_ubuntu_19.04_k5.0.13-hlcd_64g-20210712.7z.002) |

@@ -1,14 +1,14 @@
 # OFT-21W01
 
 ### Windows API
-| Document | Download Link|
+| Tool     | Download Link|
 | :------- | :----------- |
 | GPIO API | [Download](https://github.com/AE-public/wiki/releases/download/OFT-21W01/GPIO.zip) |
 
 [How to test GPIO function on Windows](How-to-test-GPIO-function-on-Windows) 
 
 ### Linux
-| Document                     | Download Link|
+| Image                        | Download Link|
 | :--------------------------- | :----------- |
 | Ubuntu-16.04.3(E158BOT2106R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-21W01/Ubuntu-16.04.3-v1.0.5.zip) |  
 
@@ -16,7 +16,7 @@
 [How to install RFID driver on Ubuntu 14.04 or Fedora 21](RFID-Install)  
 
 ### Android
-| Document                  | Download Link|
+| Image                     | Download Link|
 | :------------------------ | :----------- |
 | Android 4.4(E158AOT2111R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-21W01/2014WW46_BCX11_Intel_A44_0.0.108.zip) |
 | Android 5.1(E158AOT2108R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-21W01/2015WW38_BCX11A51_Intel_A51_0.0.39.zip) |

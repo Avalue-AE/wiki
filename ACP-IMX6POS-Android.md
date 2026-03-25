@@ -50,7 +50,7 @@ Please copy all of them to path `Android-MfgTools\Image\smarc\android` of MfgToo
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Android6.0   | [無檔案]() |
 

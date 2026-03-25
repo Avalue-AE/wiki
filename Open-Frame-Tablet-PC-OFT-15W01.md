@@ -1,7 +1,7 @@
 # OFT-15W01
 
 ### Windows
-| Document | Download Link|
+| Tool     | Download Link|
 | :------- | :----------- |
 | GPIO API | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/GPIO.zip) |
 

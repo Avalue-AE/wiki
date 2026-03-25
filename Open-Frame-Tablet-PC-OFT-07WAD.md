@@ -1,7 +1,7 @@
 # OFT-07WAD
 
 ## BIOS
-| Document            | Download Link|
+| Tool                | Download Link|
 | :------------------ | :----------- |
 | JRX12_BIOS_V1.00T29 | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/JRX12_BIOS_V1.00T29.zip) |
 
@@ -9,7 +9,7 @@
 >[!NOTE]
 >You need to download all three files in order to extract them.  
 
-| Document                    | Download Link|
+| Image                      | Download Link|
 | :-------------------------- | :----------- |
 | Debian 12.9.0(E158B07WA00R)_001 | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD-v100.7z.001) |
 | Debian 12.9.0(E158B07WA00R)_002 | [Download](https://github.com/AE-public/wiki/releases/download/untagged-7329614b6ead0686229c/OFT-07WAD-v100.7z.002) |

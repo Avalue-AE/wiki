@@ -47,17 +47,17 @@ You can find Uboot image files in path `uboot-imx/out`
 ### Download MfgTool from Hyperlink below
 
 #### Dual Lite version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Ubuntu12.04  | [無檔案]() |
 
 #### Quad version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Ubuntu12.04  | [無檔案]() |
 
 ## Document
-| Documant               | Download Link|
+| Document               | Download Link|
 |:-----------------------|:-------------|
 | Datasheet              | [無檔案]() |
 | User's Manual          | [無檔案]() |

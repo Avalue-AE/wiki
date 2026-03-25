@@ -1,7 +1,7 @@
 # OFT-15WR1
 
 ## Android
-| Document                  | Download Link|
+| Image                     | Download Link|
 | :------------------------ | :----------- |
 | Android 8.1(E158A15R100R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15WR1/rk3288-15inch-20210326.iso) |
 
