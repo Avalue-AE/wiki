@@ -69,12 +69,12 @@ You can find Uboot image files in path `uboot-imx/out`
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Yocto2.1     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Yocto2.1_Dual_Lite.zip) |
 
 ### Quad version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Yocto2.1     | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Yocto2.1_Quad.zip) | 
 

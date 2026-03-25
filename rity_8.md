@@ -49,7 +49,7 @@ You can find all image files in path
 **Android/out/target/product/smarc/**  
 
 | Image File     | Description                      |
-|----------------|----------------------------------|
+|:---------------|:---------------------------------|
 | boot.img       | kernel image file                |
 | recovery.img   | recovery image file              |
 | system.img     | system image file                |

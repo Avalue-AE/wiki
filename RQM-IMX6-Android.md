@@ -41,7 +41,7 @@ You can find Android image files in path `/out/target/product/smarc`
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Android6.0   | [無檔案]() |
 

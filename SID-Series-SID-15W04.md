@@ -9,7 +9,7 @@
 >[!NOTE]
 >You need to download all files in order to extract them.
 
-| Document                                     | Download Link|
+| Image                                        | Download Link|
 | :------------------------------------------- | :----------- |
 | Ubuntu20.04(E158BT15400R)_001(2025/10/31 update) | [Download](https://github.com/AE-public/wiki/releases/download/SID-15W04/SID-15W04.UBUNTU.20.04.IMAGE.-.E158BT15400R.7z.001) |
 | Ubuntu20.04(E158BT15400R)_002(2025/10/31 update) | [Download](https://github.com/AE-public/wiki/releases/download/SID-15W04/SID-15W04.UBUNTU.20.04.IMAGE.-.E158BT15400R.7z.002) |

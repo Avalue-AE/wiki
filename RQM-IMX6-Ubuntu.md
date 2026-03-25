@@ -47,12 +47,12 @@ You can find Uboot image files in path `uboot-imx/out`
 ### Download MfgTool for Android from Hyperlink below
 
 #### Dual Lite version
-| OS           | File  |
+| Image        | File  |
 |:-------------|:-------------|
 | Ubuntu12.04  | [無檔案]() |
 
 #### Quad version
-| OS           | File  |
+| Image        | File  |
 |:-------------|:-------------|
 | Ubuntu12.04  | [無檔案]() |
 

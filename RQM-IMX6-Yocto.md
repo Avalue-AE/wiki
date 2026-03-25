@@ -63,12 +63,12 @@ Please copy all of them to path `Android-MfgTools\Image\smarc\android` of MfgToo
 ### Download MfgTool for Android from Hyperlink below
 
 #### Dual Lite version
-| OS           | File  |
+| Image        | File  |
 |:-------------|:-------------|
 | Yocto2.1(4.1.15)     | [無檔案]() |
 
 #### Quad version
-| OS           | File  |
+| Image        | File  |
 |:-------------|:-------------|
 | Yocto2.1(4.1.15)     | [無檔案]() |
 

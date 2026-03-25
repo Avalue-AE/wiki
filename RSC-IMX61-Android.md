@@ -46,7 +46,7 @@ You can find Android image files in path `linux-imx/out/target/product/aib`
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Android6.0   | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Android6.0_Dual_Lite.zip) |  
 

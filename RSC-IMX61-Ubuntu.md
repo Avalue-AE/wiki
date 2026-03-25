@@ -57,12 +57,12 @@ You can find Uboot image in path `rsc-imx61/linux-imx/arch/arm/boot`
 ## Download MfgTool for Android from Hyperlink below
 
 ### Dual Lite version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Dual_Lite.zip) |
 
 ### Quad version
-| OS           | Download Link|
+| Image        | Download Link|
 |:-------------|:-------------|
 | Ubuntu12.04  | [Download](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Ubuntu12.04_Quad.zip) |
 
