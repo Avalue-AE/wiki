@@ -67,7 +67,7 @@ You can find Uboot image files in path `uboot-imx/out`
 [Yocto1.7](https://github.com/AE-public/wiki/releases/download/ACP-IMX6POS/Yocto1.7.zip)  
 
 ## Document
-| Documant               | Download Link|
+| Document               | Download Link|
 |:-----------------------|:-------------|
 | Datasheet              | [無檔案]() |
 | User's Manual          | [無檔案]() |
