@@ -20,7 +20,7 @@
 | :--------------------------------------------------- | :----------- |
 | LCD Datasheet 1200 nits                              | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3.LCD.Datasheet.-.1200.nits.pdf) |
 | LCD Datasheet 500 nits                               | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3.LCD.Datasheet.-.500.nits.pdf) |
-| Touch Screen Datasheet(2022/12/07)                   | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3.Touch.Datasheet.pdf) |
+| Touch Screen Datasheet                               | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3.Touch.Datasheet.pdf) |
 | ME Drawing                                           | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3_ME.zip) |
 | Mounting kit Drawing                                 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3_Mounting_kit.zip) |
 | MTBF Report                                          | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR3/OFT-10WR3.MTBF.Report.pdf) |
