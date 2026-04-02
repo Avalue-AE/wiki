@@ -3,13 +3,15 @@
 ## Linux  
 >[!NOTE]
 You need to download all files in order to extract them.  
-(2G_32G: 001 & 002 & 003)  (4G_64G: 001 & 002)  
 
-| Image                                           | Download Link|
+| Image For 32GB                                  | Download Link|
 | :---------------------------------------------- | :----------- |
 | OFT-10W03-2G_32G-Ubuntu 19.04(E158BT10300R)_001 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/cherrytrail_oft_10w03_ubuntu_19.04_k5.0.13-hlcd_32g-20210129.7z.001) |
 | OFT-10W03-2G_32G-Ubuntu 19.04(E158BT10300R)_002 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/cherrytrail_oft_10w03_ubuntu_19.04_k5.0.13-hlcd_32g-20210129.7z.002) |
 | OFT-10W03-2G_32G-Ubuntu 19.04(E158BT10300R)_003 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/cherrytrail_oft_10w03_ubuntu_19.04_k5.0.13-hlcd_32g-20210129.7z.003) |
+
+| Image For 64GB                                  | Download Link|
+| :---------------------------------------------- | :----------- |
 | OFT-10W03-4G_64G-Ubuntu 19.04(E158BT15300R)_001 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/cherrytrail_oft_15w03_ubuntu_19.04_k5.0.13-hlcd_64g-20210422.7z.001) |
 | OFT-10W03-4G_64G-Ubuntu 19.04(E158BT15300R)_002 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/cherrytrail_oft_15w03_ubuntu_19.04_k5.0.13-hlcd_64g-20210422.7z.002) |
 

@@ -36,5 +36,5 @@
 | Touch Screen Datasheet                             | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/hd-t156wp05-f4sb_spec_05_170324.pdf) |
 | Adapter Datasheet                                  | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/bcc-adp-065n-01r.pdf) |
 | Mechanical Drawing                                 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/OFT-15W01_ME_20160914.zip) |
-| CE/FCC test Report                                 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/OFT-15W01_BTL.zip) |
+| CE/FCC test Report                                 | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/OFT-15W01_BTL.zip)  |
 | WIFI Module Certification report                   | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W01/Certification_0804.rar) |  
