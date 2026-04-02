@@ -8,7 +8,7 @@
 [How to test GPIO function on Windows](How-to-test-GPIO-function-on-Windows)  
 
 ### Linux
-| Image                     | Download Link|
+| Image                        | Download Link|
 | :--------------------------- | :----------- |
 | Ubuntu-16.04.3(E158BOT2106R) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W01/Ubuntu-16.04.3-v1.0.5.zip) |  
 

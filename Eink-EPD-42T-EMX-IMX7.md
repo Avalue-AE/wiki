@@ -24,13 +24,13 @@
 ### Android 5.1
 | Image        | Download Link|
 | ------------ | ------------ |
-| 1G RAM model | [無檔案]() |
+| 1G RAM model | [無檔案]()   |
 | 2G RAM model | [Download](https://github.com/AE-public/wiki/releases/download/EPD-42T(EMX-IMX7)/MFG-Tools-20210325.Android_2G_180_eMMC._TTx.zip) |
 
 ### Linux 4.15(Yocto 2.1)
 | Image        | Download Link|
 | ------------ | ------------ |
-| 1G RAM model | [無檔案]() |
+| 1G RAM model | [無檔案]()   |
 | 2G RAM model | [Download](https://github.com/AE-public/wiki/releases/download/EPD-42T(EMX-IMX7)/MFG-Tools_20211126.Linux_2G_270_eMMC._TTx.zip) |
 
 ### Document
@@ -39,4 +39,4 @@
 | OS Programming Guide | [Download](https://github.com/AE-public/wiki/releases/download/EPD-42T(EMX-IMX7)/EMX-IMX7_.EPD-42T._OS_programming_Guide.pdf) |
 
 >[!NOTE]
-Please contact your sales representative or service agent for **Application Development Guide** details.  
+>Please contact your sales representative or service agent for **Application Development Guide** details.  
