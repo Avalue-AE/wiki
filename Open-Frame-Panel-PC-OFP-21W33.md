@@ -14,4 +14,4 @@
 | Touch Screen Datasheet | [Download](https://github.com/AE-public/wiki/releases/download/OFP-21W33/E968X000257R.pdf) |
 | MTBF Report            | [Download](https://github.com/AE-public/wiki/releases/download/OFP-21W33/OFT-21W33_MTBF.Report-20201019.pdf) |
 | ME Drawing             | [Download](https://github.com/AE-public/wiki/releases/download/OFP-21W33/ofp-21w33_240226.stp) |
-| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/OFP-21W33/ofp-21w33_240226.stp) |
+| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/OFP-21W33/OFP-21W33_2312433521.pdf) |
