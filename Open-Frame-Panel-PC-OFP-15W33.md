@@ -14,3 +14,4 @@
 | Touch Screen Datasheet | [Download](https://github.com/AE-public/wiki/releases/download/OFP-15W33/E968X000130R.pdf) |
 | MTBF Report            | [Download](https://github.com/AE-public/wiki/releases/download/OFP-15W33/MTBF.Report.QD4-069.DQV._OFT-15W33.pdf) |
 | ME Drawing             | [Download](https://github.com/AE-public/wiki/releases/download/OFP-15W33/ofp-15w33_240226.stp) |
+| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/OFP-15W33/ofp-15w33_240226.stp) |
