@@ -23,10 +23,16 @@
 ## EPD-42xx (R-Pi)
 
 ### Linux
-| Tool                    | Download Link|
+| Tool                     | Download Link|
 |:-------------------------|:-------------|
 | API                      | [無檔案]() |
 | API + Sample Application | [無檔案]() |
+
+### Document
+| Document                 | Download Link|
+|:-------------------------|:-------------|
+| Datasheet EPD-3133       | [Download](https://github.com/AE-public/wiki/releases/download/Eink-EPD-31xx-42xx-T1000/EPD-3133_231243229.pdf) |
+| Datasheet EPD-4200       | [Download](https://github.com/AE-public/wiki/releases/download/Eink-EPD-31xx-42xx-T1000/EPD-4200_2312432212.pdf) |
 
 > [!NOTE]
 > Please contact your sales or service agent for more detail.

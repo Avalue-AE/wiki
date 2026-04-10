@@ -18,6 +18,7 @@
 | Document     | Download Link|
 | ------------ | ------------ |
 | OS Programming Guide | [Download](https://github.com/AE-public/wiki/releases/download/EPD-42T(EMX-IMX7)/EMX-IMX7_.EPD-42T._OS_programming_Guide.pdf) |
+| Datasheet    | [Download](https://github.com/AE-public/wiki/releases/download/EPD-42T(EMX-IMX7)/EPD-42T_2312432244.pdf)|
 
 ## EPD-42T-B1 (IMX7, True-Flat)
 
