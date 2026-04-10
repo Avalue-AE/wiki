@@ -69,7 +69,8 @@ You can find Uboot image files in path `uboot-imx/out`
 ## Document
 | Document               | Download Link|
 |:-----------------------|:-------------|
-| Datasheet              | [無檔案]() |
+| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/ACP-IMX6POS/ACP-IMX6POS_2312423316.pdf) |
+| Datasheet B1           | [Download](https://github.com/AE-public/wiki/releases/download/ACP-IMX6POS/ACP-IMX6POS-B1_2312423312.pdf) |
 | User's Manual          | [無檔案]() |
 | Mechanical Drawing     | [無檔案]() |
 | 3D Drawing (step file) | [無檔案]() |
