@@ -23,3 +23,4 @@ You need to download all files in order to extract them.
 | Touch Screen Datasheet | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W03/oft-15w03_touch_screen_dy1562w-4262_approval_sheet_20200110v1.pdf) |
 | ME Drawing             | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W03/OFT-15W03_ME.zip) |
 | MTBF Report            | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W03/mtbf_report_qd4-069_dqv_oft-15w03.pdf) |
+| Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/OFT-15W03/OFT-15W03_231243344.pdf)|

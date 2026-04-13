@@ -23,3 +23,4 @@
 | Touch Screen Datasheet        | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/oft-07w03_touch_screen_datasheet_st-070c21a-af-usb_v01-spec.pdf) |
 | ME drawing(2022/02/21 update) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/OFT-07W03_ME.zip) |
 | MTBF Report                   | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/mtbf_report_qd4-069_dqv_oft-07w03_30c.pdf) |
+| Datasheet                     | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07W03/OFT-07W03_2312433524.pdf) |

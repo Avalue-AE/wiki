@@ -14,3 +14,4 @@
 | ME Drawing (20220221 update)                  | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR1/OFT-10WR1_ME.zip) |
 | Panel and Wall mount (20220622 update)        | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR1/OFT-10W0110W0210W0310WR1_Panel.and.Wall.mount.zip) |
 | Extended bracket (20220622 update)            | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR1/OFT-10W0110W0210W0310WR1_Extended.bracket.zip) |
+| Datasheet                                     | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10WR1/OFT-10WR1_2312433427.pdf)|

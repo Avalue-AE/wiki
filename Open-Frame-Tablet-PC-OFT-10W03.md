@@ -24,3 +24,4 @@ You need to download all files in order to extract them.
 | Panel and Wall mount(20220622 update) | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/OFT-10W0110W0210W0310WR1_Panel.and.Wall.mount.zip) |
 | Extended bracket(20220622 update)     | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/OFT-10W0110W0210W0310WR1_Extended.bracket.zip) |
 | MTBF Report                           | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/mtbf_report_qd4-069_dqv_oft-10w03.pdf) |
+| Datasheet                             | [Download](https://github.com/AE-public/wiki/releases/download/OFT-10W03/OFT-10W03_2312433357.pdf)|

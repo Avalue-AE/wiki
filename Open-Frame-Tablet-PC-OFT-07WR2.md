@@ -24,3 +24,4 @@
 | MTBF Report(2022/12/07 update)                       | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR2/OFT-07WR2.MTBF.Report.pdf) |
 | Datasheet(2022/12/07 update)                         | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR2/OFT-07WR2_Spec.pdf) |
 | Image Update SOP(2023/5/15 update)                   | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR2/RK3568.image.update.SOP.pdf) |
+| Datasheet                                            | [Download](https://github.com/AE-public/wiki/releases/download/OFT-07WR2/OFT-07WR2_2312433529.pdf) |
