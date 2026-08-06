@@ -4,22 +4,34 @@
 - [Renity Sentinel Diagnostic Data Collector](Renity-Sentinel-Diagnostic-Data-Collector)
 
 ## RISC
-- **RSC-IMX61**
-  - [Android](RSC-IMX61-Android)
-  - [Ubuntu](RSC-IMX61-Ubuntu)
-  - [Yocto](RSC-IMX61-Yocto)
+- ***RSC series***
+  - **RSC-IMX61**
+   - [Android](RSC-IMX61-Android)
+   - [Ubuntu](RSC-IMX61-Ubuntu)
+   - [Yocto](RSC-IMX61-Yocto)
+  
+  - **RSC-IMX8M**
+   - [RSC-IMX8M](RSC-IMX8M)
+  
+  - **RSC-3568J**
+   - [RSC-3568J](ACP-3566-PI-RSC-3568J)
+  
+- ***ACP series***
+  - **ACP-IMX6POS**
+   - [Android](ACP-IMX6POS-Android)
+   - [Ubuntu](ACP-IMX6POS-Ubuntu)
+   - [Yocto](ACP-IMX6POS-Yocto)
 
-- **ACP-IMX6POS**
-  - [Android](ACP-IMX6POS-Android)
-  - [Ubuntu](ACP-IMX6POS-Ubuntu)
-  - [Yocto](ACP-IMX6POS-Yocto)
+  - **ACP-3566-PI**
+   - [ACP-3566-PI](ACP-3566-PI-RSC-3568J)
 
-- **RQM-IMX6**
-  - [Android](RQM-IMX6-Android)
-  - [Ubuntu](RQM-IMX6-Ubuntu)
-  - [Yocto](RQM-IMX6-Yocto)
+ - ***RQM series***
+  - **RQM-IMX6** 
+   - [Android](RQM-IMX6-Android)
+   - [Ubuntu](RQM-IMX6-Ubuntu)
+   - [Yocto](RQM-IMX6-Yocto)
 
-- [RSC-IMX8M](RSC-IMX8M)
+
 
 - [ACP-3566-PI | RSC-3568J](ACP-3566-PI-RSC-3568J)
 
