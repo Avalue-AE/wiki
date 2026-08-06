@@ -10,10 +10,10 @@ This repository contains the Linux kernel drivers for Avalue industrial motherbo
 
 It provides onboard features including:
 
-* [Watch dog](WDT.md)
-* [GPIO](GPIO.md)
-* [Hardware Monitor](HWM.md)
-* [Misc](MISC.md)
+* [Watch dog](WDT)
+* [GPIO](GPIO)
+* [Hardware Monitor](HWM)
+* [Misc](MISC)
 
 ---
 
