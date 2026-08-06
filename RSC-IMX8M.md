@@ -1,5 +1,9 @@
 # RSC-IMX8M  
 
+## Install image guide
+
+[User guide by MfgTool](https://github.com/AE-public/wiki/releases/download/RSC-IMX8M/ARM-IMX.pdf)
+
 ## Document
 | Document   | Download Link|
 | :--------- | :----------- |
