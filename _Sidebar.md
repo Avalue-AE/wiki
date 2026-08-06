@@ -36,13 +36,14 @@
 - [EPD-42T(EMX-IMX7)](Eink-EPD-42T-EMX-IMX7)
 - [EPD-31xx/42xx(T1000)](Eink-EPD-31xx-42xx-T1000)
 
+<!-- 這段暫時隱藏
 ## RENITY ARTEMIS
 - **Enterprise Kit**
   - [Safety Precautions](Enterprise-Kit-Safety-Precautions)
   - [Packing List](Enterprise-Kit-Packing-List)
   - [Recommended Accessories](Enterprise-Kit-Recommended-Accessories)
   - [Service](Service)
-
+-->
 
 ## Open Frame Series
 - **Open Frame Panel PC**
