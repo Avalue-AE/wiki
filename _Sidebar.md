@@ -23,7 +23,7 @@
    - [Yocto](ACP-IMX6POS-Yocto)
 
   - **ACP-3566-PI**
-   - [ACP-3566-PI](ACP-3566-PI-RSC-3568J)
+   - [ACP-3566-PI](ACP-3566-PI)
 
  - ***RQM series***
   - **RQM-IMX6** 

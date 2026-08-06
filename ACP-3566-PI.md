@@ -1,4 +1,4 @@
-# ACP-3566-PI | RSC-3568J
+# ACP-3566-PI
 
 ## 7 inch  
 | Image                  | Download Link|
