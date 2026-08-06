@@ -1,6 +1,7 @@
 ## x86 Industrial & Embedded Motherboard
 - [Windows API](Windows-API)
 - [Linux X86 API](Linux-X86-API)
+- [avalue-driver-4.0](avalue-driver-4.0)
 - [Renity Sentinel Diagnostic Data Collector](Renity-Sentinel-Diagnostic-Data-Collector)
 
 ## RISC
