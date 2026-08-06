@@ -41,7 +41,7 @@ You can find Android image files in path `linux-imx/out/target/product/aib`
 
 ## Install image guide
 
-[Flash image(RSC-IMX61)](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
+[User guide by MfgTool](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
