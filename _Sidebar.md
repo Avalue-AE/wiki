@@ -14,7 +14,7 @@
    - [RSC-IMX8M](RSC-IMX8M)
   
   - **RSC-3568J**
-   - [RSC-3568J](ACP-3566-PI-RSC-3568J)
+   - [RSC-3568J](RSC-3568J)
   
 - ***ACP series***
   - **ACP-IMX6POS**
@@ -31,9 +31,6 @@
    - [Ubuntu](RQM-IMX6-Ubuntu)
    - [Yocto](RQM-IMX6-Yocto)
 
-
-
-- [ACP-3566-PI | RSC-3568J](ACP-3566-PI-RSC-3568J)
 
 ## Eink
 - [EPD-42T(EMX-IMX7)](Eink-EPD-42T-EMX-IMX7)
