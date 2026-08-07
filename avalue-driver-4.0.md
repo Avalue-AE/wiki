@@ -15,7 +15,7 @@
 * [build-matrix](test/build-matrix.sh)
 * [config-sweep](test/config-sweep.sh)
 * [test-gpio](test/test-gpio.sh)
-* [test](test/Test%20infrastructure)
+* [test](test/Test infrastructure)
 </details>  
 
 <details>
