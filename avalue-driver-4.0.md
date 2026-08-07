@@ -96,7 +96,7 @@
 
 * [CLAUDE.md](CLAUDE)  
 * [GPIO.md](GPIO)  
-* [HWM.md](HWM.md)  
+* [HWM.md](HWM)  
 * [Kbuild](Kbuild)  
 * [Makefile](Makefile)  
 * [.clang-format](.clang-format)  
