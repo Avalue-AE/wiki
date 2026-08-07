@@ -2,7 +2,6 @@
 - [Windows API](Windows-API)
 - [Linux X86 API](Linux-X86-API)
 - [avalue-driver-4.0](avalue-driver-4.0)
-- [Avalue Linux Driver Suite](Avalue-Linux-Driver-Suite)
 - [Renity Sentinel Diagnostic Data Collector](Renity-Sentinel-Diagnostic-Data-Collector)
 
 ## RISC
