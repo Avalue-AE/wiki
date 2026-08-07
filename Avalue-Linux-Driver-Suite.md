@@ -75,7 +75,7 @@ Note column). A line not in this table is simply untested, not unsupported.
 | Distribution | Kernel version | Build status | Note |
 |---|---|---|---|
 | Ubuntu (mainline-style) | 4.15.18 | Does not build | Our build host's tree for this line stops before the compiler runs: a plain `make` ends at `No rule to make target '.../src/hal/ec/ite.o'` with zero `CC [M]` lines. That tree is also missing `scripts/mod/modpost` and `tools/objtool/objtool`, which the six other `/kernels` trees in this table have -- but the build stops earlier than either of those is needed, so this is our tree being incomplete, not the 4.15 kernel line. On a good 4.15 tree the driver does build, one subsystem at a time (see the two rows below). |
-| Ubuntu (fetched `linux-headers` package, not under `/kernels`) | 4.15.0-101 -- EPC-WHL | Builds clean | A real, complete 4.15 tree [recipe](Test-infrastructure), built one subsystem at a time: this board declares watchdog, gpio and hwmon (no misc). All 3 produced a `.ko`, `make` exited 0 for each, and every `.ko`'s `modinfo -F vermagic` reads `4.15.0-101-generic SMP mod_unload`. |
+| Ubuntu (fetched `linux-headers` package, not under `/kernels`) | 4.15.0-101 -- EPC-WHL | Builds clean | A real, complete 4.15 tree ([recipe](Test-infrastructure)), built one subsystem at a time: this board declares watchdog, gpio and hwmon (no misc). All 3 produced a `.ko`, `make` exited 0 for each, and every `.ko`'s `modinfo -F vermagic` reads `4.15.0-101-generic SMP mod_unload`. |
 | Ubuntu (fetched `linux-headers` package, not under `/kernels`) | 4.15.0-101 -- ESM-KX60G | Builds clean | Same tree and method as the row above; this board declares all four subsystems. All 4 produced a `.ko`, `make` exited 0 for each, same `vermagic`. |
 | Ubuntu (mainline-style) | 5.4.302 | Builds clean | |
 | Ubuntu (mainline-style) | 5.15.211 | Builds clean | Needs the `-Wno-error=type-limits` line already in `Kbuild` (the kernel's own `bits.h` GENMASK trips this warning) |
@@ -96,7 +96,7 @@ that fails before the compiler runs, on our own incomplete host tree.
 Seven of the ten rows are the prepared trees under `/kernels`, and two are a
 tree fetched into `/kernels-cache` -- `test/build-matrix.sh` builds both
 sources (see the script's own header comment, and
-[test/README.md](test/README.md) for how the `/kernels-cache` tree was
+[test/Test-infrastructure.md](Test-infrastructure) for how the `/kernels-cache` tree was
 prepared). The AlmaLinux 9.8 row is the only one still built by hand: it is a
 `kernel-devel` package, not a tree under either directory, so
 `test/build-matrix.sh` never builds it -- its row comes from the same plain
