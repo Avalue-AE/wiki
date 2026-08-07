@@ -94,8 +94,8 @@
 * [config.sh](scripts/config.sh)  
 </details>  
 
-* [CLAUDE.md](CLAUDE.md)  
-* [GPIO.md](GPIO.md)  
+* [CLAUDE.md](CLAUDE)  
+* [GPIO.md](GPIO)  
 * [HWM.md](HWM.md)  
 * [Kbuild](Kbuild)  
 * [Makefile](Makefile)  
