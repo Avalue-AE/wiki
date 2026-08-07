@@ -39,6 +39,7 @@
 * [ioport.h](src/hal/ioport.h)  
 * [misc.h](src/hal/misc.h)  
 * [wdt.h](src/hal/wdt.h)   
+</details>  
 
 <details>
 <summary>ec</summary> 
@@ -77,7 +78,14 @@
 * [smb.h](src/hal/smb/smb.h)  
 * [zhaoxin.c](src/hal/smb/zhaoxin.c)  
 </details>
+
 </details>
+
+<details>
+<summary>.local</summary>
+
+* [package.sh](.local/package.sh)  
+* [release.sh](.local/release.sh)  
 </details>
 
 <details>
@@ -86,10 +94,11 @@
 * [config.sh](scripts/config.sh)  
 </details>  
 
-* [cloud.md](cloud.md)
+* [CLAUDE.md](CLAUDE.md)  
 * [GPIO.md](GPIO.md)  
 * [HWM.md](HWM.md)  
-* [Avalue-Linux-Driver-Suite.md](Avalue-Linux-Driver-Suite.md)
 * [Kbuild](Kbuild)  
 * [Makefile](Makefile)  
-* 
+* [.clang-format](.clang-format)  
+* [.editorconfig](.editorconfig)  
+* [.gitignore](.gitignore)  
