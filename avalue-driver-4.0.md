@@ -15,7 +15,12 @@
 * [build-matrix](test/build-matrix.sh)
 * [config sweep](test/config-sweep.sh)
 * [test gpio](test/test-gpio.sh)
-* [test infrastructure](Test-infrastructure)
+* [test infrastructure](Test-infrastructure)   
+* [misc-ioctl-guard-harness.c](test/misc-ioctl-guard-harness.c)  
+* [misc-ioctl-guard.sh](test/misc-ioctl-guard.sh)  
+* [push-check.sh](test/push-check.sh)  
+* [support-list-check.sh](test/support-list-check.sh)
+* [wiki-page-check.sh](test/wiki-page-check.sh)
 </details>  
 
 <details>
