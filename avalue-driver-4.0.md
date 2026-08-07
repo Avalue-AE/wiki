@@ -15,7 +15,7 @@
 * [build-matrix](test/build-matrix.sh)
 * [config-sweep](test/config-sweep.sh)
 * [test-gpio](test/test-gpio.sh)
-* [test](test/test.md)
+* [test](test/Test%20infrastructure)
 </details>  
 
 <details>
@@ -102,6 +102,4 @@
 
 * [config.sh](scripts/config.sh)  
 </details>  
-
-[123](configs/boards/ACP-BYT2C.conf)
 
