@@ -4,10 +4,10 @@
 
 [User guide by MfgTool](https://github.com/AE-public/wiki/releases/download/RSC-IMX8M/ARM-IMX.pdf)
 
-### 123
-| Image        | Download Link|
-|:-------------|:-------------|
-| 123     | [Download]() | 
+### Image
+| File                                         | Download Link|
+|:---------------------------------------------|:-------------|
+| Yocto 2.5(E158BMX8M00R)(2026/8/11 update)    | [Download](https://github.com/Avalue-AE/wiki/releases/download/RSC-IMX8M/E158BMX8M00R.7z) | 
 
 ## Document
 | Document   | Download Link|
