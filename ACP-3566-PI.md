@@ -1,5 +1,20 @@
 # ACP-3566-PI
 
+## Install image guide
+
+[User guide by RKDevTool](https://github.com/Avalue-AE/wiki/releases/download/ACP-3566-PI_RSC-3568J/ACP-3566-PI.image.pdf)
+
+
+## Flash Image Driver
+| Driver                                  | Download Link|
+| :-------------------------------------- | :----------- |
+| DriverAssitant_v5.1.1(2026/8/14 update) | [Download](https://github.com/Avalue-AE/wiki/releases/download/ACP-3566-PI_RSC-3568J/DriverAssitant_v5.1.1.zip) |
+
+## Flash Tool
+| Tool                        | Download Link|
+| :-------------------------- | :----------- |
+| RKDevTool_v3.19(2026/8/14 update) | [Download](https://github.com/Avalue-AE/wiki/releases/download/ACP-3566-PI_RSC-3568J/RKDevTool_Release.zip) |
+
 ## 7 inch  
 | Image                  | Download Link|
 |:-----------------------|:-------------|
