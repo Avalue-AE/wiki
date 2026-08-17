@@ -9,11 +9,7 @@
   - [RSC-3568J](RSC-3568J)
   
 - ***ACP series***
-  - **ACP-IMX6POS**
-    - [Android](ACP-IMX6POS-Android)
-    - [Ubuntu](ACP-IMX6POS-Ubuntu)
-    - [Yocto](ACP-IMX6POS-Yocto)
-
+  - [ACP-IMX6POS](ACP-IMX6POS)  
   - **ACP-3566-PI**
     - [ACP-3566-PI](ACP-3566-PI)
 
