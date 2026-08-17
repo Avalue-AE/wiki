@@ -23,4 +23,4 @@
 ## 10 inch  
 | Image                  | Download Link|
 |:-----------------------|:-------------|
-| Android 13             | [Download](https://github.com/AE-public/wiki/releases/download/ACP-3566-PI_RSC-3568J/10inch-lvds.zip) |
+| Android 13             | [Download](https://github.com/AE-public/wiki/releases/download/ACP-3566-PI_RSC-3568J/10inch-lvds.zip) |  
