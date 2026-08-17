@@ -98,7 +98,7 @@ You can find Uboot image files in path `uboot-imx/out`
 
 ## Install image
 
-[Flash_image(ACP-IMX6POS).pdf](https://webdownload.avalue.com.tw/wiki/RISC/ACP-IMX6POS/Document/Flash_image(ACP-IMX6POS).pdf)
+[無檔案]()
 
 ### Download MfgTool from Hyperlink below
 
@@ -170,7 +170,7 @@ You can find Uboot image files in path `uboot-imx/out`
 
 ## Install image
 
-[Flash image(ACP-IMX6POS)](https://github.com/Avalue-AE/wiki/releases/download/ACP-IMX6POS/Yocto1.7.zip)
+[無檔案]()
 
 ### Download MfgTool for Android
 
@@ -184,6 +184,4 @@ You can find Uboot image files in path `uboot-imx/out`
 | Document               | Download Link|
 |:-----------------------|:-------------|
 | Datasheet              | [Download](https://github.com/AE-public/wiki/releases/download/ACP-IMX6POS/ACP-IMX6POS_2312423316.pdf) |
-| Datasheet B1           | [Download](https://github.com/AE-public/wiki/releases/download/ACP-IMX6POS/ACP-IMX6POS-B1_2312423312.pdf) |
-| Mechanical Drawing     | [無檔案]() |
-| 3D Drawing (step file) | [無檔案]() |
+| Datasheet B1           | [Download](https://github.com/AE-public/wiki/releases/download/ACP-IMX6POS/ACP-IMX6POS-B1_2312423312.pdf) |  
