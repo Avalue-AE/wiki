@@ -10,8 +10,7 @@
   
 - ***ACP series***
   - [ACP-IMX6POS](ACP-IMX6POS)  
-  - **ACP-3566-PI**
-    - [ACP-3566-PI](ACP-3566-PI)
+  - [ACP-3566-PI](ACP-3566-PI)
 
  - ***RQM series***
    - **RQM-IMX6** 
