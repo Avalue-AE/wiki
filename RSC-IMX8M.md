@@ -2,7 +2,7 @@
 
 ## Install image guide
 
-[RSC-IMX8M_eMMC_SD_Program guide](https://github.com/Avalue-AE/wiki/releases/download/RSC-IMX8M/RSC-IMX8M.Flashing.image.guide.pdf)
+[RSC-IMX8M_eMMC_Program guide](https://github.com/Avalue-AE/wiki/releases/download/RSC-IMX8M/RSC-IMX8M.Flashing.image.guide.pdf)
 
 ### Linux
 | Image                                        | Download Link|

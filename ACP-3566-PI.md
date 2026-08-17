@@ -2,7 +2,7 @@
 
 ## Install image guide
 
-[User guide by RKDevTool](https://github.com/Avalue-AE/wiki/releases/download/ACP-3566-PI_RSC-3568J/ACP-3566-PI.image.pdf)
+[ACP-3566-PI_RKDToolv3.19_eMMC_Program guide](https://github.com/Avalue-AE/wiki/releases/download/ACP-3566-PI_RSC-3568J/ACP-3566-PI.image.pdf)
 
 
 ## Flash Image Driver
