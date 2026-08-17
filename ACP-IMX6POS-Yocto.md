@@ -56,7 +56,7 @@ You can find Uboot image files in path `uboot-imx/out`
 
 ## Install image
 
-[Flash image(ACP-IMX6POS)](https://webdownload.avalue.com.tw/wiki/RISC/ACP-IMX6POS/Document/Flash image(ACP-IMX6POS).pdf)
+[Flash image(ACP-IMX6POS)](https://github.com/Avalue-AE/wiki/releases/download/ACP-IMX6POS/Yocto1.7.zip)
 
 ### Download MfgTool for Android
 
