@@ -41,7 +41,7 @@ You can find Android image files in path `linux-imx/out/target/product/aib`
 
 ## Install image guide
 
-[User guide by MfgTool](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
+[RSC-IMX61_Mfg2.3.3_eMMC_SD_Program guide](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
@@ -104,7 +104,7 @@ You can find Uboot image in path `rsc-imx61/linux-imx/arch/arm/boot`
 
 ## Install image guide
 
-[User guide by MfgTool](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
+[RSC-IMX61_Mfg2.3.3_eMMC_SD_Program guide](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
@@ -184,7 +184,7 @@ You can find Uboot image files in path `uboot-imx/out`
 
 ## Install image guide
 
-[User guide by MfgTool](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
+[RSC-IMX61_Mfg2.3.3_eMMC_SD_Program guide](https://github.com/AE-public/wiki/releases/download/RSC-IMX61/Flash.image.RSC-IMX61.pdf)
 
 ## Download MfgTool for Android from Hyperlink below
 
