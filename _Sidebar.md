@@ -3,21 +3,17 @@
 - [Renity Sentinel Diagnostic Data Collector](Renity-Sentinel-Diagnostic-Data-Collector)
 
 ## RISC
-- ***RSC series***
+- **RSC series**
   - [RSC-IMX61](RSC-IMX61)
   - [RSC-IMX8M](RSC-IMX8M)
   - [RSC-3568J](RSC-3568J)
   
-- ***ACP series***
+- **ACP series**
   - [ACP-IMX6POS](ACP-IMX6POS)  
   - [ACP-3566-PI](ACP-3566-PI)
 
- - ***RQM series***
-   - **RQM-IMX6** 
-     - [Android](RQM-IMX6-Android)
-     - [Ubuntu](RQM-IMX6-Ubuntu)
-     - [Yocto](RQM-IMX6-Yocto)
-
+ - **RQM series**
+   - [RQM-IMX6](RQM-IMX6)
 
 ## Eink
 - [EPD-42T(EMX-IMX7)](Eink-EPD-42T-EMX-IMX7)
