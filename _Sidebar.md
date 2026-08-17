@@ -4,10 +4,7 @@
 
 ## RISC
 - ***RSC series***
-  - **RSC-IMX61**
-    - [Android](RSC-IMX61-Android)
-    - [Ubuntu](RSC-IMX61-Ubuntu)
-    - [Yocto](RSC-IMX61-Yocto)
+  - [RSC-IMX61](RSC-IMX61)
   
   - **RSC-IMX8M**
     - [RSC-IMX8M](RSC-IMX8M)
