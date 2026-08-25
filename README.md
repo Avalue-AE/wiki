@@ -4,7 +4,7 @@ Thanks for your visit to Avalue Developer Website.
 
 Here you can find all the information you need for Product Development.
 
-[You can find information you need by click here](Home.md)
+[You can find information you need by click here](https://github.com/Avalue-AE/wiki/wiki)
 
 [RSC-IMX8M](RSC-IMX8M.md)  
 [RSC-3576J](RSC-3576J.md)  
