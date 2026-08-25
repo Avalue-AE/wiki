@@ -4,12 +4,12 @@ Thanks for your visit to Avalue Developer Website.
 
 Here you can find all the information you need for Product Development.
 
-[You can find information you need by click here](Home)
+[You can find information you need by click here](Home.md)
 
-[RSC-IMX8M](RSC-IMX8M)  
-[RSC-3576J](RSC-3576J)  
-[ACP-3588](ACP-3588)  
-[OFT-21WR2](OFT-21WR2)  
+[RSC-IMX8M](RSC-IMX8M.md)  
+[RSC-3576J](RSC-3576J.md)  
+[ACP-3588](ACP-3588.md)  
+[OFT-21WR2](OFT-21WR2.md)  
 
 
 
