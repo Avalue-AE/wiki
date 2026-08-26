@@ -33,11 +33,11 @@ $cd android4
 ./run.sh
 ```
 Select 24 to compile Android4.4 image  
-![rsc-imx61_android_compiler1](../imagesRSC-IMX61-Android/rsc-imx61_android_compiler1.png)
-![rsc-imx61_android_compiler2](../imagesRSC-IMX61-Android/rsc-imx61_android_compiler2.png)
+![rsc-imx61_android_compiler1](../images/RSC-IMX61-Android/rsc-imx61_android_compiler1.png)
+![rsc-imx61_android_compiler2](../images/RSC-IMX61-Android/rsc-imx61_android_compiler2.png)
 
 You can find Android image files in path `linux-imx/out/target/product/aib`  
-![rsc-imx61_android_compiler3](../imagesRSC-IMX61-Android/rsc-imx61_android_compiler3.png)
+![rsc-imx61_android_compiler3](../images/RSC-IMX61-Android/rsc-imx61_android_compiler3.png)
 
 ## Install image guide
 
@@ -97,10 +97,10 @@ The uboot compile parameter would be related with board version.
 | dl-2g      | Dual Lite CPU with 2G DDR3 |
 
 You can find Kernel image in path `rsc-imx61/linux-imx/arch/arm/boot`  
-![rsc-imx61_kernel_image_ubuntu](../imagesRSC-IMX61-Ubuntu/rsc-imx61_kernel_image_ubuntu.png)  
+![rsc-imx61_kernel_image_ubuntu](../images/RSC-IMX61-Ubuntu/rsc-imx61_kernel_image_ubuntu.png)  
 
 You can find Uboot image in path `rsc-imx61/linux-imx/arch/arm/boot`  
-![rsc-imx61_uboot_image_ubuntu](../imagesRSC-IMX61-Ubuntu/rsc-imx61_uboot_image_ubuntu.png)  
+![rsc-imx61_uboot_image_ubuntu](../images/RSC-IMX61-Ubuntu/rsc-imx61_uboot_image_ubuntu.png)  
 
 ## Install image guide
 
@@ -177,10 +177,10 @@ $cd uboot-imx
 > If want to flash image to SD, replace emmc to sd
 
 You can find Kernel image files in path `linux-imx/out`  
-![rsc-imx61_yocto_kernel](../imagesRSC-IMX61-Yocto/rsc-imx61_yocto_kernel.png)  
+![rsc-imx61_yocto_kernel](../images/RSC-IMX61-Yocto/rsc-imx61_yocto_kernel.png)  
 
 You can find Uboot image files in path `uboot-imx/out`  
-![rsc-imx61_yocto_uboot](../imagesRSC-IMX61-Yocto/rsc-imx61_yocto_uboot.png)  
+![rsc-imx61_yocto_uboot](../images/RSC-IMX61-Yocto/rsc-imx61_yocto_uboot.png)  
 
 ## Install image guide
 

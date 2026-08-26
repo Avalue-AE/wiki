@@ -38,4 +38,4 @@ DIO_GP15->DIO_GP25
 DIO_GP16->DIO_GP26  
 DIO_GP17->DIO_GP27  
 
-![gpio](../imagesHow-to-test-GPIO-function-on-Windows/gpio.jpg)  
+![gpio](../images/How-to-test-GPIO-function-on-Windows/gpio.jpg)  

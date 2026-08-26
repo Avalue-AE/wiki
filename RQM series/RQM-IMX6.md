@@ -32,7 +32,7 @@ $cd android-4
 ```
 
 You can find Android image files in path `/out/target/product/smarc`  
-![rqm-imx6_compiler1](../imagesRQM-IMX6-Android/rqm-imx6_compiler1.png)
+![rqm-imx6_compiler1](../images/RQM-IMX6-Android/rqm-imx6_compiler1.png)
 
 ## Install image
 

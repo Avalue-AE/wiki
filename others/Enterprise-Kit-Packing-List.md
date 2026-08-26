@@ -1,6 +1,6 @@
 # Packing List
 
-![artemis_pack_list](../imagesPacking%20List/artemis_pack_list.png)
+![artemis_pack_list](../images/Packing%20List/artemis_pack_list.png)
 
 1. **1x** ARTEMIS server EPC-BYT2  
 2. **4x** ARTEMIS Anchor UB-A100  

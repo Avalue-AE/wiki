@@ -27,4 +27,4 @@ Requested File Download Link below
     DIO_GP15 → DIO_GP25  
     DIO_GP16 → DIO_GP26  
     DIO_GP17 → DIO_GP27  
-    ![gpio](../imagesOFT-Win-GPIO/gpio.png)  
+    ![gpio](../images/OFT-Win-GPIO/gpio.png)  
