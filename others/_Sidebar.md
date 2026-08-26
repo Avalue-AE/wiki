@@ -4,10 +4,10 @@
 
 ## RISC
 - **RSC series**
-  - [RSC-IMX61](RSC-IMX61)  
-  - [RSC-IMX8M](RSC-IMX8M)  
+  - [RSC-IMX61/AIB-IMX6](RSC-IMX61)  
+  - [RSC-IMX8M/AIB-IMX8M](RSC-IMX8M)  
   - [RSC-3568J](RSC-3568J)  
-  - [RSC-3576J](RSC-3576J)  
+  - [RSC-3576J/AIB-3576](RSC-3576J)  
   
 - **ACP series**
   - [ACP-IMX6POS](ACP-IMX6POS)  
