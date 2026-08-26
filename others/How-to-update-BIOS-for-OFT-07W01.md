@@ -8,10 +8,10 @@ Please follow procedure below to reflash BIOS :
 1. Please format a USB Disk in FAT32 format and decompress BCX12_BIOS_V101.zip in root directory of it. 
 
 2. Plug the USB disk into USB port of OFT-07W01 and power on the system. Please press “F12” to get into boot manager of BIOS and then choose usb boot disk as boot device.  
-![bios_2](images/How-to-update-BIOS-for-OFT-07W01/bios_2.jpg)  
+![bios_2](../imagesHow-to-update-BIOS-for-OFT-07W01/bios_2.jpg)  
 
 3. Once you get into EFI shell, please key in "fs1:" to get access of your USB disk  
-![bios_07w01_3](images/How-to-update-BIOS-for-OFT-07W01/bios_07w01_3.jpg)  
+![bios_07w01_3](../imagesHow-to-update-BIOS-for-OFT-07W01/bios_07w01_3.jpg)  
 
 4. Please change the directory to “\EFI\boot" by command below :  
 "cd EFI"  

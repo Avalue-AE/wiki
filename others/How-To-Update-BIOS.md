@@ -16,13 +16,13 @@ BIOS File Download Link below
 Please follow procedure below to reflash BIOS :  
 
 1. Please format a USB Disk in FAT32 format and decompress `EFI201.rar` in root directory of it.  
-   ![bios_1](images/How-To-Update-BIOS/bios_1.png)  
+   ![bios_1](../imagesHow-To-Update-BIOS/bios_1.png)  
 
 2. Plug the USB disk into USB port of OFT-XXW01 and power on the system. Please press `F12` to get into boot manager of BIOS and then choose usb boot disk as boot device.  
-   ![bios_2](images/How-To-Update-BIOS/bios_2.png)  
+   ![bios_2](../imagesHow-To-Update-BIOS/bios_2.png)  
 
 3. Once you get into EFI shell, please key in `fs1:` to get access of your USB disk.  
-   ![bios_3](images/How-To-Update-BIOS/bios_3.png)  
+   ![bios_3](../imagesHow-To-Update-BIOS/bios_3.png)  
 
 4. Please change the directory to `\EFI\boot` by command below :  
    ```bash
