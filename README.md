@@ -9,7 +9,7 @@ Here you can find all the information you need for Product Development.
 [RSC-IMX8M](RSC%20series/RSC-IMX8M.md)  
 [RSC-3576J](RSC%20series/RSC-3576J.md)  
 [ACP-3588](ACP%20series/ACP-3588.md)  
-[OFT-21WR2](Open%20Frame%20series/Open-Frame-Tablet-PC-OFT-21WR2.md)  
+[OFT-21WR2](Open%20Frame%20series/OFT-21WR2.md)  
 
 
 
