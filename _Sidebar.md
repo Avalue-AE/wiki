@@ -8,6 +8,7 @@
   - [RSC-IMX8M/AIB-IMX8M](RSC-IMX8M)  
   - [RSC-3568J](RSC-3568J)  
   - [RSC-3576J/AIB-3576](RSC-3576J)  
+  - 123
   
 - **ACP series**
   - [ACP-IMX6POS](ACP-IMX6POS)  
