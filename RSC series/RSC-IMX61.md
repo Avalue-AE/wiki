@@ -1,4 +1,4 @@
-# RSC-IMX61 Android 123
+# RSC-IMX61 Android
 
 ## Build and install Android image for RSC-IMX61
 

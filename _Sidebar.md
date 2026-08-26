@@ -3,7 +3,7 @@
 - [Renity Sentinel Diagnostic Data Collector](Renity-Sentinel-Diagnostic-Data-Collector)
 
 ## RISC
-- **RSC series kkk**
+- **RSC series kkksss**
   - [RSC-IMX61/AIB-IMX6](RSC-IMX61)  
   - [RSC-IMX8M/AIB-IMX8M](RSC-IMX8M)  
   - [RSC-3568J](RSC-3568J)  
