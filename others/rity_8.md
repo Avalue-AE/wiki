@@ -62,14 +62,14 @@ of MfgTool folder.
 ## Install Android image into eMMC
 
 Download MfgTool for Android from Hyperlink below  
-[無連結](ftp://dennis:8710@ftp.avalue.com.tw/dennis/IMX6/RITY_8/RITY_POS-Android-MfgTools.rar)
+[無連結]()
 
 1. Set JBTSL1 on RITY8R1 as below to serial download mode  
 ![acp-imx6pos_jbtsl1.png](../images/RITY%20serious/acp-imx6pos_jbtsl1.png)
 
-2. Use mini-USB cable to connect JMUSB1 on RITY8R1 to Windows 7
+1. Use mini-USB cable to connect JMUSB1 on RITY8R1 to Windows 7
 system.  
-3. Run “MFG-Helper.exe” on the path
+1. Run “MFG-Helper.exe” on the path
 (~\RITY_POS-Android-MfgTools\Mfg-POS)  
 3-1. Please select as below for Dual lite then click “Run MFG-Tools”  
 ![solo.jpg](../images/RITY%20serious/solo.jpg)
