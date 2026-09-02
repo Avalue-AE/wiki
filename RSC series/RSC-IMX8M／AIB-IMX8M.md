@@ -2,7 +2,7 @@
 
 ## Install image guide
 
-[RSC-IMX8M_eMMC_Program guide](https://github.com/Avalue-AE/wiki/releases/download/ACP-3588/How.to.flash.the.image.to.RK3588.pdf)
+[RSC-IMX8M/AIB-IMX8M_eMMC_Program guide](https://github.com/Avalue-AE/wiki/releases/download/ACP-3588/How.to.flash.the.image.to.RK3588.pdf)
 
 ### Linux
 | Image                                        | Download Link|
