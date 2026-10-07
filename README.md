@@ -13,5 +13,5 @@ Here you can find all the information you need for Product Development.
 
 
 
-You are welcome to give us suggestions for this website. Please email Technical@avalue.com with your suggestions.
+You are welcome to give us suggestions for this website. Please email Technical@avalue.com or github_ae@avalue.com with your suggestions.
 
