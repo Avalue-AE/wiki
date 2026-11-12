@@ -4,6 +4,6 @@
 [無檔案]()  
 
 ## Image  
-| Image                  | Download Link|
+| Yocto                  | Download Link|
 |:-----------------------|:-------------|
-| 無檔案                  | [Download]() |
+| yocto4.0               | [Download](https://github.com/Avalue-AE/wiki/releases/download/ACP-IMX8M-PI/GTC-XPI-IMX8MM-yocto4.0-RNA210114-V1.02-20250528031459.tar.gz) |
